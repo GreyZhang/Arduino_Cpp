@@ -4,3 +4,6 @@
 ** 声明
 -这次的学习，不想整理什么教程，还是一份自己随性的学习笔记。路过人千万别当作教程，以免被我带偏了！接下来，进入正题了。
 ** 学习笔记汇总
+- [[https://greyzhang.blog.csdn.net/article/details/108556010][371_使用Arduino学习C++-hello world]]
+- code: 01_hello_world
+
