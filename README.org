@@ -7,3 +7,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/108556010][371_使用Arduino学习C++-hello world]]
 - code: 01_hello_world
 
+- [[https://greyzhang.blog.csdn.net/article/details/108556468][372_使用Arduino学习C++-数据类型与转换处理]]
+- code: 02_type_conversion
