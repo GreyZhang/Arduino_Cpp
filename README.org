@@ -34,3 +34,6 @@ code: 09_value_and_ref
 - vector
 尝试去测试vector，在Arduino的开发环境中似乎没有提供这样的功能。进行对<vector>的include操作也失败。或许，在嵌入式中使用不是很多，后面如果真是遇到了再在别人的库设计中学习。
 
+- [[https://greyzhang.blog.csdn.net/article/details/108565927][380_使用Arduino学习C++-方法]]
+code: 11_method
+
