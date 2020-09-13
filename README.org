@@ -13,3 +13,6 @@ code: 02_type_conversion
 - [[https://greyzhang.blog.csdn.net/article/details/108558979][373_使用Arduino学习C++-安静的转换]]
 code: 03_quiet_conversion
 
+- [[https://greyzhang.blog.csdn.net/article/details/108559556][374_使用Arduino学习C++-数据计算]]
+code: 04_math
+
