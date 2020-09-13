@@ -37,3 +37,6 @@ code: 09_value_and_ref
 - [[https://greyzhang.blog.csdn.net/article/details/108565927][380_使用Arduino学习C++-方法]]
 code: 11_method
 
+- [[https://greyzhang.blog.csdn.net/article/details/108567749][381_使用Arduino学习C++-构造函数]]
+code: 12_constructor
+
