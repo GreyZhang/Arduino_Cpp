@@ -9,3 +9,7 @@ code: 01_hello_world
 
 - [[https://greyzhang.blog.csdn.net/article/details/108556468][372_使用Arduino学习C++-数据类型与转换处理]]
 code: 02_type_conversion
+
+- [[https://greyzhang.blog.csdn.net/article/details/108558979][373_使用Arduino学习C++-安静的转换]]
+code: 03_quiet_conversion
+
