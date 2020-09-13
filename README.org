@@ -19,4 +19,7 @@ code: 04_math
 - [[https://greyzhang.blog.csdn.net/article/details/108560483][375_使用Arduino学习C++-函数]]
 code: 05_function
 
+- [[https://greyzhang.blog.csdn.net/article/details/108560867][376_使用Arduino学习C++-函数重载]]
+code: 06_function_overloading
+
 
