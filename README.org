@@ -40,3 +40,6 @@ code: 11_method
 - [[https://greyzhang.blog.csdn.net/article/details/108567749][381_使用Arduino学习C++-构造函数]]
 code: 12_constructor
 
+- [[https://greyzhang.blog.csdn.net/article/details/108587451][382_使用Arduino学习C++-namespace的用法]]
+code: 13_namespace
+
