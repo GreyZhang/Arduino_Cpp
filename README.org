@@ -49,3 +49,6 @@ code: 14_class_public
 - [[https://greyzhang.blog.csdn.net/article/details/108608625][385_使用Arduino学习C++-函数的默认参数]]
 code: 15_default_patameter_value
 
+- [[https://greyzhang.blog.csdn.net/article/details/108609225][386_使用Arduino学习C++-默认的构造函数行为]]
+code: 16_constructor_default_process
+
