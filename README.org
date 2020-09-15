@@ -46,3 +46,6 @@ code: 13_namespace
 - [[https://greyzhang.blog.csdn.net/article/details/108607981][384_使用Arduino学习C++-类以及public参数]]
 code: 14_class_public
 
+- [[https://greyzhang.blog.csdn.net/article/details/108608625][385_使用Arduino学习C++-函数的默认参数]]
+code: 15_default_patameter_value
+
