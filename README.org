@@ -57,3 +57,7 @@ code: 17_function_in_class
 
 - [[https://greyzhang.blog.csdn.net/article/details/108630881][388_使用Arduino学习C++-private的使用]]
 code: 18_private
+
+- [[https://greyzhang.blog.csdn.net/article/details/108630990][389_使用Arduino学习C++-成员的初始化]]
+code: 19_element_init
+
