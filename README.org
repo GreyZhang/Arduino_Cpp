@@ -55,3 +55,5 @@ code: 16_constructor_default_process
 - [[https://greyzhang.blog.csdn.net/article/details/108630711][387_使用Arduino学习C++-在类内实现的函数]]
 code: 17_function_in_class
 
+- [[https://greyzhang.blog.csdn.net/article/details/108630881][388_使用Arduino学习C++-private的使用]]
+code: 18_private
