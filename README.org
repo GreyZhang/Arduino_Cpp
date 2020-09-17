@@ -61,3 +61,5 @@ code: 18_private
 - [[https://greyzhang.blog.csdn.net/article/details/108630990][389_使用Arduino学习C++-成员的初始化]]
 code: 19_element_init
 
+- [[https://greyzhang.blog.csdn.net/article/details/108652576][395_使用Arduino学习C++-变量赋值]]
+code: 20_assignment_for_vars
