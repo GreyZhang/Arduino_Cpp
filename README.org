@@ -63,3 +63,5 @@ code: 19_element_init
 
 - [[https://greyzhang.blog.csdn.net/article/details/108652576][395_使用Arduino学习C++-变量赋值]]
 code: 20_assignment_for_vars
+
+- [[https://greyzhang.blog.csdn.net/article/details/110940027][475_使用Arduino学习C++之函数的weak属性]]
